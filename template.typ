@@ -1,4 +1,8 @@
-#let project(doc) ={
+#let conf(
+  title: none,
+  authors: (),
+  doc,
+  ) ={
   set page(
     paper: "a4",
     margin: (left:25mm,right:25mm,top:25mm,bottom:20mm),
@@ -21,6 +25,18 @@
       lang: "de",
   )
 
+  
+  text(17pt, title)
+  let count = authors.len()
+  let ncols = calc.min(count,3)
+  grid(
+    columns: (1fr,)* ncols,
+    row-gutter: 24pt,
+    ..authors.map(author=>[
+      #author.name\
+      #link("mailto:" + author.email)
+    ])
+  )
   
   outline()
   doc
