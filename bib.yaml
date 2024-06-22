@@ -1,0 +1,7 @@
+hubschrauberflug:
+  type: Web
+  publisher: Hubschrauberflug.at
+  title: "Hubschrauber Technik"
+  url:
+    value: https://www.hubschrauberflug.at/de/infos/technik
+    date: 2024-01-29
