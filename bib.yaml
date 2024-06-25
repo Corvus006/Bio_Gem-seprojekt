@@ -1,7 +1,21 @@
-hubschrauberflug:
+planturaBienen:
   type: Web
-  publisher: Hubschrauberflug.at
-  title: "Hubschrauber Technik"
+  publisher: plantura.garden
+  title: "Bienen im Garten: Alles, was Sie dazu wissen müssen"
   url:
-    value: https://www.hubschrauberflug.at/de/infos/technik
-    date: 2024-01-29
+    value: https://www.plantura.garden/insekten/bienen/bienen-im-garten
+    date: 2024-06-23
+mdrBienen:
+  type: Web
+  publisher:  mdr.de
+  title: "Bienen im Kleingarten halten: Das ist zu beachten"
+  url:
+    value: https://www.mdr.de/mdr-garten/pflegen/bienen-kleingarten-bienenvolk-halten-bestaeubung-imker-100.html
+    date: 2024-06-23
+obiBienen:
+  type: Web
+  publisher: obi.de
+  title: "So gelingt ein insekten- und bienenfreundlicher Garten"
+  url:
+    value: https://www.obi.de/magazin/garten/gartengestaltung/bienenfreundlicher-garten
+    date: 2024-06-25

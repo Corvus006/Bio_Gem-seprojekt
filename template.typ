@@ -20,13 +20,20 @@
       marker: ([•],[--])
   )
   set text(
-      font:"Times New Roman",
-      size: 10pt,
+      font:"Arial",
+      size: 12pt,
       lang: "de",
   )
+  set heading(numbering: "1.")
+  show outline.entry.where(
+    level:1
+  ): it => {
+    v(12pt,weak: false)
+    strong(it )
+  }
 
   
-  text(17pt, title)
+  text(22pt, title)
   let count = authors.len()
   let ncols = calc.min(count,3)
   grid(
@@ -38,8 +45,12 @@
     ])
   )
   
-  outline()
+  outline(indent: auto)
   doc
 
-  bibliography("bib.yaml")
+  bibliography(
+   "bib.yaml",
+    full: true,
+    style: "ieee",
+  )
 }
