@@ -34,20 +34,29 @@ Sie liefern auch gesunden Honig und nützliches Wachs für Kerzen.
 Honigbiene in seinem Garten zu halten erfordert eine hohe Ausdauer, um aus Rückschlägen und Misserfolgen, die nötige Erfahrung und Wissen zu schöpfen.
 Wenn man sich diesen Prozess ersparen möchte, kann sich ein Besuch beim nächsten Imker-Verein lohnen.
 Sowie Hors Jäger-Mang, ein Imker aus Weimar selbst sagte: "Es ist eine Wissenschaft für sich"  Außerdem sollte man viel Zeit in die neuen Freunde mit Stachel investieren, damit sie gesund bleiben und viel Honig produzieren können.
-Allein der Vorgang des Schleuderns der Bienenwaben kann 12-14 Stunden in Anspruch nehmen. Bevor man sich aber sein erstes Volk anschafft sollte man nochmal in Rücksprache mit Nachbarn und dem eigenen Imker-Verein zu treten, um sicher zu gehen, dass nichts dem neuen Hobby im Weg steht.@planturaBienen @mdrBienen
+Allein der Vorgang des Schleuderns der Bienenwaben kann 12-14 Stunden in Anspruch nehmen. Bevor man sich aber sein erstes Volk anschafft sollte man nochmal in Rücksprache mit Nachbarn und dem eigenen Imker-Verein treten, um sicher zu gehen, dass nichts dem neuen Hobby im Weg steht.@planturaBienen @mdrBienen
 
 
 == Sinnvoller Standort
 
-Der Ausgang des Bienenstocks sollte Richtung Süden zeigen und fünf bis sechs Stunden Tageslicht sind nötig sowie auch ein leichtes Gefälle, damit die kalte Luft abfließen kann. Eventuell sind auch Büsche oder Hecken nötig auf der Nord- und Ostseite um Windschutz zu spenden. Aber eines sollte er auf keinen Fall im Schatten stehen.@mdrBienen
+Der Ausgang des Bienenstocks sollte Richtung Süden zeigen und fünf bis sechs Stunden Tageslicht sind nötig, sowie auch ein leichtes Gefälle, damit die kalte Luft abfließen kann. Eventuell sind auch Büsche oder Hecken nötig auf der Nord- und Ostseite, um Windschutz zu spenden. Aber eines sollte er auf keinen Fall, im Schatten stehen.@mdrBienen
 
 == Der Traumgarten einer Biene
+
+Zuallererst sollte man sich bewusst machen, dass Bienen die Welt anders wahrnehmen für sie sind rote Rosen schwarz oder Gänseblümchen haben interessante Muster. Das liegt daran, dass Bienen auch wie wir drei Farbrezeptoren haben, aber die jeweiligen Spektren der Zäpfchen sind verschoben, deshalb können sie kein Rot sehen, aber dafür können sie einen Teil des Infrarotspektrums sehen, was es ihnen ermöglicht die Muster auf dem Gänseblümchen zu sehen. 
+
+#image("img/Infrarotsicht.png")
+
+
+Achte deshalb bei der Pflanzenauswahl darauf, dass die Pflanzen offene Blüten haben und keine gefüllten Blüten haben, da diese fast gar keinen Nektar bieten, weil sie viele Blütenblätter haben und kaum Staubblätter.Dies ist beispielsweise der Fall bei vielen Rosenzüchtungen. Außerdem fühlen sich Bienen von Blauenblüten besonders angezogen und um so heimischer die Pflanzen im Garten sind, um so wohler fühlen sich die Bienen. @obiBienen
 
 #pagebreak()
 = - Gemüseanbau -
 
 == Ausgangslage
 Wie man vielleicht daran vermuten mag, dass mir ein Gewächshaus zur Verfügung steht, haben wir in der Familie schon öfter Gemüse angebaut wie Tomaten, Gurken oder Zuchini. Dieses Jahr haben wir sogar zwei Container Regenwassertanks zu Hochbetten umgebaut, wo aktuell Salatköpfe angebaut werden.
+
+#image("img/26-06-2024/Salat_26-6-2024.jpg",height: 60%, width:  100%)
 #pagebreak()
 == Anpflanzung
 
@@ -93,6 +102,26 @@ Am 09.03.2024 wurden die Pflanzensamen von Chili, Tomate und Zuchini ausgesät i
 
 Bevor die Pflanzen am 08.04.2024 ausgepflanzt wurden, wurden sie über eine Woche lang tagsüber nach draußen auf unsere Terrasse gestellt und abends wieder ins Haus geholt. Dieses Verfahren nennt man Abhärten, dabei  gewöhnt man die Pflanzen an die Umstände von draußen Stück für Stück.
 
+== Endstandorte
+
+#table(
+  columns: (1fr,1fr),
+  inset: 10pt,
+  align: center,
+  stroke: white,
+
+  [
+    #image("img/26-06-2024/Gewaechshaus0_26-6-2024.jpg",height:  45%,width: 100% )
+    Gewächshaus
+  ],
+  [
+    #image("img/26-06-2024/Terrasse0_26-6-2024.jpg",height:  45%,width: 100%)
+    Terrasse
+  ],
+  
+)
+Der Endstandort von der Chili und den Radieschen befindet sich im Gewächshaus und der von den Tomaten liegt auf unserer Terrasse.
+
 #pagebreak()
 == Düngung
 
@@ -112,12 +141,16 @@ Bevor die Pflanzen am 08.04.2024 ausgepflanzt wurden, wurden sie über eine Woch
   ],
 )
 
-Anfangs wurde mit Brennnesseljauche gedüngt, indem etwas davon zum Gießwasser hinzugegeben wurde. Da der Geruch sehr intensiv und unangenehm war, wurde auf organischen Dünger umgestellt, der in Pellet Form zum Gießwasser gegeben wurde. 
+Anfangs wurde mit Brennnesseljauche gedüngt, 
+indem etwas davon zum Gießwasser hinzugegeben wurde. 
+Da der Geruch sehr intensiv und unangenehm war, 
+wurde auf organischen Dünger umgestellt, 
+der in Pellet Form zum Gießwasser gegeben wurde. 
 
 === Bolivian Rainbow Chili
 
 #table(
-  columns: (1fr,1fr),
+  columns: (1fr,1fr,1fr),
   inset: 10pt,
   align: center,
   stroke: white,
@@ -130,13 +163,17 @@ Anfangs wurde mit Brennnesseljauche gedüngt, indem etwas davon zum Gießwasser 
     #image("img/09-06-2024/Chili1_9-6-2024.jpg",height:  35%)
     (03.06.2024)
   ],
+  [
+    #image("img/26-06-2024/Chili0_26-6-2024.jpg", height: 35%, width: 100%)
+    (26.06.2024)
+  ]
 )
 
 #pagebreak()
 === Tomate
 
 #table(
-  columns: (1fr,1fr),
+  columns: (1fr,1fr,1fr),
   inset: 10pt,
   align: center,
   stroke: white,
@@ -149,13 +186,17 @@ Anfangs wurde mit Brennnesseljauche gedüngt, indem etwas davon zum Gießwasser 
     #image("img/09-06-2024/Tomate1_9-6-2024.jpg",height:  35%)
     (03.06.2024)
   ],
+  [
+    #image("img/26-06-2024/Tomate1_26-6-2024.jpg", height: 35%,width: 100%)
+    (26.06.2024)
+  ]
 )
 
 
 === Radieschen
 
 #table(
-  columns: (1fr,1fr),
+  columns: (1fr,1fr,1fr),
   inset: 10pt,
   align: center,
   stroke: white,
@@ -168,6 +209,10 @@ Anfangs wurde mit Brennnesseljauche gedüngt, indem etwas davon zum Gießwasser 
     #image("img/09-06-2024/Radieschen0_9-6-2024.jpg",height:  35%)
     (03.06.2024)
   ],
+  [
+    #image("img/26-06-2024/Radieschen0_26-6-2024.jpg", height: 35%, width: 100%)
+    (26.06.2024)
+  ]
 )
 #pagebreak()
 === Zuchini
