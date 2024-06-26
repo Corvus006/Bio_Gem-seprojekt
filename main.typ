@@ -55,6 +55,7 @@ Achte deshalb bei der Pflanzenauswahl darauf, dass die Pflanzen offene Blüten h
 
 == Ausgangslage
 Wie man vielleicht daran vermuten mag, dass mir ein Gewächshaus zur Verfügung steht, haben wir in der Familie schon öfter Gemüse angebaut wie Tomaten, Gurken oder Zuchini. Dieses Jahr haben wir sogar zwei Container Regenwassertanks zu Hochbetten umgebaut, wo aktuell Salatköpfe angebaut werden.
+\ \
 
 #image("img/26-06-2024/Salat_26-6-2024.jpg",height: 60%, width:  100%)
 #pagebreak()
@@ -123,6 +124,99 @@ Bevor die Pflanzen am 08.04.2024 ausgepflanzt wurden, wurden sie über eine Woch
 Der Endstandort von der Chili und den Radieschen befindet sich im Gewächshaus und der von den Tomaten liegt auf unserer Terrasse.
 
 #pagebreak()
+
+
+== Pflanzenzeitraffer
+=== Bolivian Rainbow Chili
+
+#table(
+  columns: (1fr,1fr,1fr),
+  inset: 10pt,
+  align: center,
+  stroke: white,
+
+  [
+    #image("img/06-05-2024/Chili0_6-5-2024.jpg",height:  35%)
+    (06.05.2024)
+  ],
+  [
+    #image("img/09-06-2024/Chili1_9-6-2024.jpg",height:  35%)
+    (03.06.2024)
+  ],
+  [
+    #image("img/26-06-2024/Chili0_26-6-2024.jpg", height: 35%, width: 100%)
+    (26.06.2024)
+  ]
+)
+
+
+=== Tomate
+
+#table(
+  columns: (1fr,1fr,1fr),
+  inset: 10pt,
+  align: center,
+  stroke: white,
+
+  [
+    #image("img/06-05-2024/Tomate0_6-5-2024.jpg",height:  35%)
+    (06.05.2024)
+  ],
+  [
+    #image("img/09-06-2024/Tomate1_9-6-2024.jpg",height:  35%)
+    (03.06.2024)
+  ],
+  [
+    #image("img/26-06-2024/Tomate1_26-6-2024.jpg", height: 35%,width: 100%)
+    (26.06.2024)
+  ]
+)
+#pagebreak()
+
+=== Radieschen
+
+#table(
+  columns: (1fr,1fr,1fr),
+  inset: 10pt,
+  align: center,
+  stroke: white,
+
+  [
+    #image("img/06-05-2024/Radieschen0_6-5-2024.jpg",height:  35%)
+    (06.05.2024)
+  ],
+  [
+    #image("img/09-06-2024/Radieschen0_9-6-2024.jpg",height:  35%)
+    (03.06.2024)
+  ],
+  [
+    #image("img/26-06-2024/Radieschen0_26-6-2024.jpg", height: 35%, width: 100%)
+    (26.06.2024)
+  ]
+)
+
+=== Zuchini
+
+#table(
+  columns: (1fr,1fr),
+  inset: 10pt,
+  align: center,
+  stroke: white,
+
+  [
+    #image("img/06-05-2024/Zuchini1_6-5-2024.jpg",height:  35%)
+    Zuchini
+    (06.05.2024)
+  ],
+  [
+    #image("img/09-06-2024/Gurke1_9-6-2024.jpg",height:  35%)
+    Gurke
+    (03.06.2024)
+  ],
+)
+
+Leider wurden die Zuchini Pflanzen vollständig von Schnecken aufgegessen und daher hier stattdessen ein Bild von einer wunder schönen Gurkenpflanze aus dem Gewächshaus.
+#pagebreak()
 == Düngung
 
 #table(
@@ -146,96 +240,6 @@ indem etwas davon zum Gießwasser hinzugegeben wurde.
 Da der Geruch sehr intensiv und unangenehm war, 
 wurde auf organischen Dünger umgestellt, 
 der in Pellet Form zum Gießwasser gegeben wurde. 
-
-=== Bolivian Rainbow Chili
-
-#table(
-  columns: (1fr,1fr,1fr),
-  inset: 10pt,
-  align: center,
-  stroke: white,
-
-  [
-    #image("img/06-05-2024/Chili0_6-5-2024.jpg",height:  35%)
-    (06.05.2024)
-  ],
-  [
-    #image("img/09-06-2024/Chili1_9-6-2024.jpg",height:  35%)
-    (03.06.2024)
-  ],
-  [
-    #image("img/26-06-2024/Chili0_26-6-2024.jpg", height: 35%, width: 100%)
-    (26.06.2024)
-  ]
-)
-
-#pagebreak()
-=== Tomate
-
-#table(
-  columns: (1fr,1fr,1fr),
-  inset: 10pt,
-  align: center,
-  stroke: white,
-
-  [
-    #image("img/06-05-2024/Tomate0_6-5-2024.jpg",height:  35%)
-    (06.05.2024)
-  ],
-  [
-    #image("img/09-06-2024/Tomate1_9-6-2024.jpg",height:  35%)
-    (03.06.2024)
-  ],
-  [
-    #image("img/26-06-2024/Tomate1_26-6-2024.jpg", height: 35%,width: 100%)
-    (26.06.2024)
-  ]
-)
-
-
-=== Radieschen
-
-#table(
-  columns: (1fr,1fr,1fr),
-  inset: 10pt,
-  align: center,
-  stroke: white,
-
-  [
-    #image("img/06-05-2024/Radieschen0_6-5-2024.jpg",height:  35%)
-    (06.05.2024)
-  ],
-  [
-    #image("img/09-06-2024/Radieschen0_9-6-2024.jpg",height:  35%)
-    (03.06.2024)
-  ],
-  [
-    #image("img/26-06-2024/Radieschen0_26-6-2024.jpg", height: 35%, width: 100%)
-    (26.06.2024)
-  ]
-)
-#pagebreak()
-=== Zuchini
-
-#table(
-  columns: (1fr,1fr),
-  inset: 10pt,
-  align: center,
-  stroke: white,
-
-  [
-    #image("img/06-05-2024/Zuchini1_6-5-2024.jpg",height:  35%)
-    Zuchini
-    (06.05.2024)
-  ],
-  [
-    #image("img/09-06-2024/Gurke1_9-6-2024.jpg",height:  35%)
-    Gurke
-    (03.06.2024)
-  ],
-)
-
-Leider wurden die Zuchini Pflanzen vollständig von Schnecken aufgegessen und daher hier stattdessen ein Bild von einer wunder schönen Gurkenpflanze aus dem Gewächshaus.
 
 == Erfahrungen und Fazit
 Gemüse anzubauen ist prinzipiell nicht schwierig und man muss nicht zwingend daraus eine halbe Wissenschaft machen. Das einzige Wichtige ist diszipliniert zu bleiben und sich auch um die Pflanzen zu kümmern und auch zu gießen. Denn dann hat man am Ende auch etwas auf das man stolz sein kann. Ich muss persönlich sagen mein Highlight war die Chili, da sie anfangs nicht keimen wollte aber mit genügend Geduld wurde es doch was und so hat man sich mit jedem gewachsenen Zentimeter mehr gefreut. Im Großen und Ganzen lässt sich sagen, dass das Projekt bisher Spaß gemacht hat und ich gespannt bin, ob noch Früchte wachsen werden.
